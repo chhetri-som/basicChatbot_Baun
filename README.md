@@ -10,4 +10,4 @@ and basic dataset. The following libraries were downloaded in an environment cre
 - CudaToolkit 11.0
 - cuDNN 8.04
 
-  
+  I hope to expand the dataset in the future and make the model more interactive than current.
