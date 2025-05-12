@@ -1,0 +1,67 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "what's up"
+      ],
+      "responses": [
+        "Hello, I hope you're doing incredible today!!!",
+        "Howdy, let us indulge in a little 'chit-chat'",
+        "Waddup dawg, how may i assist yo.."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Gotta go",
+        "Bye bye",
+        "Goodbye",
+        "Talk to you soon",
+        "Aight homie"
+      ],
+      "responses": [
+        "And I'll see you again...OohooOooo",
+        "Well then, we shall part ways I suppose.",
+        "Aight homeboy, gotta bounce."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot",
+        "That was awesome",
+        "That was great"
+      ],
+      "responses": [
+        "Ayee, no biggie",
+        "You're welcome :)",
+        "Happy to help!"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Can you help me?",
+        "I need assistance",
+        "Help me please",
+        "What can you do?",
+        "HELP HELP"
+      ],
+      "responses": [
+        "ayo.. relax.. what happened",
+        "I'm here to assist.Please, tell me",
+        "Sure, how can I help you today?"
+      ]
+    }
+  ]
+}
