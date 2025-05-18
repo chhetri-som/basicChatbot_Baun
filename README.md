@@ -11,7 +11,11 @@ and basic dataset. The following libraries were downloaded in an environment cre
 - cuDNN 8.04
 
 The program runs in the terminal, you can you cmd prompt, bash, powershell, anaconda nav, etc.
+
 Dataset used in the intents.json file is from kaggle, 
+
 user: MAHMOUDAHMED6
+
 title: Deep Learning First Aid Chatbot
+
 link: https://www.kaggle.com/code/mahmoudahmed6/deep-learning-first-aid-chatbot/notebook
