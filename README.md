@@ -7,8 +7,8 @@ and basic dataset. The following libraries were downloaded in an environment cre
 - Tflearn
 - Tensorflow-gpu 1.15
 - NLTK
-- CudaToolkit 11.0
-- cuDNN 8.04
+- CudaToolkit 10.0
+- cuDNN 7.4
 
 The program runs in the terminal, you can you cmd prompt, bash, powershell, anaconda nav, etc.
 
